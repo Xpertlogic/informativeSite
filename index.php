@@ -467,6 +467,10 @@
     </div>
     <!-- UPCOMING PROJECT AREA END -->
 
+    <!-- Gallery section  -->
+    <?php include 'common/gallery.php'?>
+
+    <!-- FAQ section  -->
     <?php include 'common/faq.php'?>
 
     <!-- CATEGORY AREA START -->
