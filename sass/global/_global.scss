@@ -252,6 +252,9 @@ font-family: 'Poppins', sans-serif;
     --section-bg-6: #0B2C3D; /* Black */
     --section-bg-7: #282b38; /* Black */
 
+    /* Header Slide background-color  */
+    --section-bg-slide2 :#fafabe; 
+    --section-bg-slide3 :#DAF4DE; 
 
     /* Border Colors */ 
     --border-color-1: #e5eaee; /* White */
@@ -453,12 +456,32 @@ ol li {
 /* -------------------------------------
     Custom Class
 ------------------------------------- */
+
+/* Slide-1 top section */
 .section-bg-1 {
     background-color: var(--section-bg-1);
     .ltn__separate-line .separate-icon {
         background-color: var(--section-bg-1);
     }
 }
+
+/* Slide-2 top section */
+
+.section-bg-slide2{
+    background-color: var(--section-bg-slide2);
+    .ltn__separate-line .separate-icon {
+        background-color: var(--section-bg-slide2);
+    }
+}
+
+/* Slide-3 top section */
+.section-bg-slide3 {
+    background-color: var(--section-bg-slide3);
+    .ltn__separate-line .separate-icon {
+        background-color: var(--section-bg-slide3);
+    }
+}
+
 .section-bg-2,
 .section-bg-6,
 .section-bg-7 {
