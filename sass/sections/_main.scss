@@ -6345,6 +6345,19 @@ input.cart-plus-minus-box {
     }
 }
 
+ /* -----    For Banner Section ----- */
+ .ltn__upcoming-project-item-banner {
+    padding: 30px 45px 30px 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    .ltn__upcoming-project-img {
+        margin-top: 0;
+    }
+    .ltn__upcoming-project-info {
+        padding: 50px 20px;
+    }
+}
+
 @media ( max-width: 991px ) {
     .ltn__upcoming-project-item {
         padding: 30px 30px 30px 30px;

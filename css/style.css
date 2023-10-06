@@ -5088,7 +5088,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .ltn__main-menu > ul > li {
   display: inline-block;
   position: relative;
-  margin-right: 20px;
+  margin-right: 8px;
 }
 
 .ltn__main-menu > ul > li:last-child {
@@ -5103,6 +5103,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   color: var(--ltn__heading-color);
   font-weight: 600;
   font-family: var(--ltn__body-font);
+}
+
+/* Customize Header */
+.ltn__main-menu > .ltn__custom > li > a {
+  font-size: 18px;
 }
 
 .ltn__main-menu li:hover > a {
@@ -6026,8 +6031,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 ---------------------------------------- */
 .ltn__header-4 .ltn__header-middle-area,
 .ltn__header-5 .ltn__header-middle-area {
-  padding-top: 22px;
-  padding-bottom: 22px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .ltn__header-4 .ltn__header-top-area {
@@ -15523,6 +15528,19 @@ input.cart-plus-minus-box {
   padding: 50px 20px;
 }
 
+/* -----    For Banner Section ----- */
+.ltn__upcoming-project-item-banner {
+  padding: 30px 45px 30px 30px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.ltn__upcoming-project-item-banner .ltn__upcoming-project-img {
+  margin-top: 0;
+}
+.ltn__upcoming-project-item-banner .ltn__upcoming-project-info {
+  padding: 50px 20px;
+}
+
 @media (max-width: 991px) {
   .ltn__upcoming-project-item {
     padding: 30px 30px 30px 30px;
@@ -15736,6 +15754,11 @@ input.cart-plus-minus-box {
 /* ----------------------------------------------------
     Footer Default Style
 ---------------------------------------------------- */
+.footer-nav ul li {
+  display: inline-block;
+  padding: 0 15px;
+}
+
 .footer-widget .footer-title {
   font-size: 22px;
 }
@@ -15819,7 +15842,7 @@ input.cart-plus-minus-box {
     Footer Area
 -------------------------*/
 .footer-top-area {
-  padding-top: 92px;
+  padding-top: 42px;
   padding-bottom: 20px;
 }
 

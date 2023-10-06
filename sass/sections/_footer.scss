@@ -1,6 +1,17 @@
 /* ----------------------------------------------------
     Footer Default Style
 ---------------------------------------------------- */
+.footer-nav{
+    ul{
+        li{
+            display: inline-block;
+        padding: 0 15px
+        }
+    }
+
+    
+}
+
 .footer-widget {
     .footer-title {
         font-size: 22px;
@@ -110,7 +121,7 @@
     Footer Area
 -------------------------*/
 .footer-top-area {
-    padding-top: 92px;
+    padding-top: 42px;
     padding-bottom: 20px;
 }
 .footer-widget {

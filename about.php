@@ -35,7 +35,7 @@
     <!-- BREADCRUMB AREA END -->
 
     <!-- ABOUT US AREA START -->
-    <div class="ltn__about-us-area pt-120--- pb-90 mt--30">
+    <div id="about-section" class="ltn__about-us-area pt-120--- pb-90 mt--30">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 align-self-center">
