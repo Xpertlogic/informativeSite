@@ -15754,6 +15754,9 @@ input.cart-plus-minus-box {
 /* ----------------------------------------------------
     Footer Default Style
 ---------------------------------------------------- */
+.footer-nav ul {
+  text-align: center;
+}
 .footer-nav ul li {
   display: inline-block;
   padding: 0 15px;
