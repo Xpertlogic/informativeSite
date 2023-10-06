@@ -1,16 +1,12 @@
  <!-- Gallery area start -->
- <div class="ltn__gallery-area mb-120">
- <div class="row">
-            <div class="col-lg-12">
-                <div class="section-title-area ltn__section-title-2--- text-center">
-                    <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Gallery</h6>
-                    <h2 class="section-title">Photo Gallery</h2>
-                </div>
-            </div>
-        <div class="container">
-            
+ <div id="gallery-section" class="ltn__gallery-area mb-50">
+     <div class="container">
             <div class="row">
                 <div class="col-lg-12">
+                <div class="section-title-area ltn__section-title-2--- text-center">
+                               <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Gallery</h6>
+                               <h2 class="section-title">Photo Gallery</h2>
+                           </div>
                     <div class="ltn__gallery-menu">
                         <div class="ltn__gallery-filter-menu portfolio-filter text-uppercase mb-50">
                             <button data-filter="*" class="active">All IMAGES</button>
@@ -31,7 +27,7 @@
                     <div class="ltn__gallery-item-inner">
                         <div class="ltn__gallery-item-img">
                             <a href="img/gallery/img1.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/resize-img1.jpg" alt="Image">
+                                <img src="img/gallery/770x588.jpg" alt="Image">
                             </a>
                         </div>
                     </div>
@@ -85,67 +81,7 @@
                             </a>
                         </div>
                     </div>
-                </div>
-                <!-- gallery-item -7 -->
-                <div class="ltn__gallery-item filter_category_3 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/1.jpg" data-rel="lightcase:myCollection" data-bs-lc-caption="Your caption Here">
-                                <img src="img/gallery/img7.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- gallery-item -8 -->
-                <div class="ltn__gallery-item filter_category_2 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/no-image.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/img8.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- gallery-item -9 -->
-                <div class="ltn__gallery-item filter_category_1 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/1.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/img9.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- gallery-item -10 -->
-                <div class="ltn__gallery-item filter_category_3 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/1.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/img10.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- gallery-item -11 -->
-                <div class="ltn__gallery-item filter_category_2 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/1.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/img11.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <!-- gallery-item -12 -->
-                <div class="ltn__gallery-item filter_category_1 col-md-4 col-sm-6 col-12">
-                    <div class="ltn__gallery-item-inner">
-                        <div class="ltn__gallery-item-img">
-                            <a href="img/gallery/1.jpg" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/img12.jpg" alt="Image">
-                            </a>
-                        </div>
-                    </div>
-                </div>                
+                </div>              
             </div>
         </div>
     </div>

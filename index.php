@@ -152,7 +152,7 @@
     <!-- SLIDER AREA END -->
 
     <!-- ABOUT US AREA START -->
-    <div class="ltn__about-us-area pt-115 pb-100 ">
+    <div id="about-section" class="ltn__about-us-area pt-115 pb-100 ">
         <div class="container">
             <div class="row row-reverse">
                 
@@ -214,7 +214,7 @@
     <!-- ABOUT US AREA END -->
 
     <!-- ABOUT US AREA START -->
-    <div class="ltn__about-us-area section-bg-1 bg-image-right-before pt-120 pb-90">
+    <div class="ltn__about-us-area section-bg-1 bg-image-right-before pt-80 pb-90">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 align-self-center">
@@ -435,7 +435,7 @@
     <?php include 'common/faq.php'?>
 
     <!-- CATEGORY AREA START -->
-    <div class="ltn__category-area ltn__product-gutter section-bg-1--- pt-115 pb-70">
+    <div class="ltn__category-area ltn__product-gutter section-bg-1---  pb-70">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -556,6 +556,12 @@
     <!-- CATEGORY AREA END -->
 
    <?php include 'common/testimonials.php' ?>
+
+   <!-- Awards section  -->
+   <?php include 'common/award.php' ?>
+
+   <!-- Banner section  -->
+   <?php include 'common/banner.php' ?>
 
     <!-- BLOG AREA START (blog-3) -->
     <div class="ltn__blog-area pt-115--- pb-70">
