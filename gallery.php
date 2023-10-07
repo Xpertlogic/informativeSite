@@ -1,4 +1,4 @@
-?php include "./common/head.php" ?>
+<?php include "./common/head.php" ?>
 
 <body>
     <!--[if lte IE 9]>

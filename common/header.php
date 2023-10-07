@@ -7,7 +7,7 @@
                 <div class="col">
                         <div class="site-logo-wrap">
                             <div class="site-logo">
-                                <a href="index.html"><img src="img/jd-logo1.png" alt="Logo" ></a>
+                                <a href="index"><img src="img/jd-logo1.png" alt="Logo" ></a>
                             </div>
                         </div>
                     </div>
