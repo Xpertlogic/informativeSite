@@ -1,76 +1,13 @@
  <!-- HEADER AREA START (header-5) -->
  <header class="ltn__header-area ltn__header-5 ltn__header-logo-and-mobile-menu-in-mobile ltn__header-logo-and-mobile-menu ltn__header-transparent--- gradient-color-4---">
-        <!-- ltn__header-top-area start -->
-        <div class="ltn__header-top-area d-none">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-7">
-                        <div class="ltn__top-bar-menu">
-                            <ul>
-                                <li><a href="mailto:info@webmail.com?Subject=Flower%20greetings%20to%20you"><i class="icon-mail"></i> info@webmail.com</a></li>
-                                <li><a href="locations.html"><i class="icon-placeholder"></i> 15/A, Nest Tower, NYC</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="top-bar-right text-end">
-                            <div class="ltn__top-bar-menu">
-                                <ul>
-                                    <li>
-                                        <!-- ltn__language-menu -->
-                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
-                                            <ul>
-                                                <li><a href="#" class="dropdown-toggle"><span class="active-currency">English</span></a>
-                                                    <ul>
-                                                        <li><a href="#">Arabic</a></li>
-                                                        <li><a href="#">Bengali</a></li>
-                                                        <li><a href="#">Chinese</a></li>
-                                                        <li><a href="#">English</a></li>
-                                                        <li><a href="#">French</a></li>
-                                                        <li><a href="#">Hindi</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <!-- ltn__social-media -->
-                                        <div class="ltn__social-media">
-                                            <ul>
-                                                <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-                                                
-                                                <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-                                                <li><a href="#" title="Dribbble"><i class="fab fa-dribbble"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- ltn__header-top-area end -->
-        
         <!-- ltn__header-middle-area start -->
         <div class="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-white">
             <div class="container">
                 <div class="row">
-                    <div class="col">
+                <div class="col">
                         <div class="site-logo-wrap">
                             <div class="site-logo">
                                 <a href="index.html"><img src="img/jd-logo1.png" alt="Logo" ></a>
-                            </div>
-                            <div class="get-support clearfix d-none">
-                                <div class="get-support-icon">
-                                    <i class="icon-call"></i>
-                                </div>
-                                <div class="get-support-info">
-                                    <h6>Get Support</h6>
-                                    <h4><a href="tel:+123456789">123-456-789-10</a></h4>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -78,33 +15,7 @@
                         <div class="header-menu d-none d-xl-block">
                             <nav>
                                 <div class="ltn__main-menu">
-                                    <ul class="ltn__custom">
-                                        <li><a href="#">Services</a>
-                                           
-                                        </li>
-                                        <li><a href="#">Amenities</a>
-                                          
-                                        </li>
-                                        <li><a href="#">Testimonial</a>
-                                           
-                                        </li>
-                                        <li><a href="#gallery-section">Gallery</a>
-                                          
-                                        </li>
-                                        <li><a href="#">Pricing</a>
-                                           
-                                        </li>
-                                        <li><a href="#">Blog</a>
-                                          
-                                        </li>
-                                        <li><a href="#about-section">About us</a>
-                                        
-                                        </li>
-                                        <li><a href="#">Contact</a></li>
-                                        <li class="special-link">
-                                            <a href="add-listing.html">Book A Visit</a>
-                                        </li>
-                                    </ul>
+                                    <?php include 'nav-menus.php' ?>
                                 </div>
                             </nav>
                         </div>
@@ -127,4 +38,24 @@
         <!-- ltn__header-middle-area end -->
     </header>
     <!-- HEADER AREA END -->
-                               
+     <!-- Utilize Mobile Menu Start -->
+ <div id="ltn__utilize-mobile-menu" class="ltn__utilize ltn__utilize-mobile-menu">
+        <div class="ltn__utilize-menu-inner ltn__scrollbar">
+      
+            <div class="ltn__utilize-menu-head">
+                <div class="site-logo">
+                    <a href="/"><img src="img/jd-logo1.png" alt="Logo" ></a>
+                </div>
+                <button class="ltn__utilize-close">×</button>
+            </div>
+            <nav>
+                <div class="ltn__main-menu">
+                    <?php include 'nav-menus.php' ?>
+                </div>
+            </nav>
+        </div>
+</div>
+               
+    <!-- Utilize Mobile Menu End -->
+
+    <div class="ltn__utilize-overlay"></div>

@@ -1,5 +1,5 @@
 <!-- TEAM AREA START (Team - 3) -->
-<div class="ltn__team-area pt-110--- pb-90">
+<div class="ltn__team-area ltn__blog-area pt-110--- pb-90">
         <div class="container">
         <div class="col-lg-12">
                 <div class="section-title-area ltn__section-title-2--- text-center">
@@ -7,8 +7,8 @@
                     <h2 class="section-title">Awards</h2>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-sm-6">
+            <div class="row ltn__blog-slider-one-active slick-arrow-1 ltn__blog-item-3-normal">
+                <div class="col-lg-12">
                     <div class="ltn__team-item ltn__team-item-3---">
                         <div class="team-img">
                             <img src="img/team/4.jpg" alt="Image">
@@ -26,7 +26,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-12">
                     <div class="ltn__team-item ltn__team-item-3---">
                         <div class="team-img">
                             <img src="img/team/2.jpg" alt="Image">
@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-12">
                     <div class="ltn__team-item ltn__team-item-3---">
                         <div class="team-img">
                             <img src="img/team/3.jpg" alt="Image">

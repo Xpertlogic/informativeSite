@@ -6,7 +6,7 @@
   &:hover {
     .ltn__gallery-item-img {
       &::before {
-        opacity: 0.9;
+        opacity: 0.8;
         visibility: visible;
       }
       img {
@@ -95,12 +95,12 @@
 .ltn__gallery-style-2 {
   .ltn__gallery-item-info {
     position: absolute;
-    bottom: -30px;
+    top: -30px;
+    transform: translateY(-50%);
     left: 0;
     right: 0;
-    margin: 0 auto;
+    margin: auto;
     text-align: center;
-    background: var(--gradient-color-3);
     transition: all 0.3s ease 0s;
     opacity: 0;
     visibility: hidden;
@@ -111,7 +111,7 @@
   .ltn__gallery-item {
     &:hover {
         .ltn__gallery-item-info {
-          bottom: 0px;
+          top: 50%;
           opacity: 1;
           visibility: visible;
         }

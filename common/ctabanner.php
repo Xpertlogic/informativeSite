@@ -6,15 +6,6 @@
                 </div>
             </div>
         <div class="container">
-            <!-- <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area ltn__section-title-2--- text-center---">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">Upcoming Projects</h6>
-                        <h1 class="section-title  white-color">Dream Living Space <br>
-                            Setting New Standards</h1>
-                    </div>
-                </div>
-            </div> -->
             <div class="row ltn__upcoming-project-slider-1-active slick-arrow-3">
                 <!-- upcoming-project-item -->
                 <div class="col-lg-12">
@@ -32,7 +23,7 @@
                                         <li>5. Total Investment: <span>$14,500,00</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download Brochure</a>
+                                        <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
                                     </div>
                                 </div>
                             </div>
