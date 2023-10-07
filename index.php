@@ -11,7 +11,6 @@
 <!-- Body main wrapper start -->
 <div class="body-wrapper">
     <?php include './common/header.php' ?>
-    <?php include './common/mobile-nav.php' ?>
    
     <!-- SLIDER AREA START (slider-11) -->
     <div class="ltn__slider-area ltn__slider-11  ltn__slider-11-slide-item-count-show--- ltn__slider-11-pagination-count-show--- ">
@@ -560,8 +559,8 @@
    <!-- Awards section  -->
    <?php include 'common/award.php' ?>
 
-   <!-- Banner section  -->
-   <?php include 'common/banner.php' ?>
+   <!-- Cta banner section  -->
+   <?php include 'common/ctabanner.php' ?>
 
     <!-- BLOG AREA START (blog-3) -->
     <div class="ltn__blog-area pt-115--- pb-70">
@@ -734,6 +733,9 @@
             </div>
         </div>
     </div>
+    <?php include 'common/contact-modal.php'?>
+    <!-- Button trigger modal -->
+
     <!-- BLOG AREA END -->
 <?php include 'common/call-to-action.php'?>
 <?php include 'common/footer.php'?>

@@ -4862,7 +4862,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     Header
 -------------------------------------------------------------- */
 .ltn__header-area {
-  z-index: 9999;
+  z-index: 999;
   position: relative;
 }
 
@@ -5074,6 +5074,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   display: flex;
   padding: 0;
 }
+@media (max-width: 1200px) {
+  .ltn__main-menu > ul {
+    flex-direction: column;
+  }
+}
 
 .ltn__main-menu li {
   list-style: none;
@@ -5107,7 +5112,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 /* Customize Header */
 .ltn__main-menu > .ltn__custom > li > a {
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .ltn__main-menu li:hover > a {
@@ -8557,7 +8562,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     Modal Area
 ---------------------------------------------------- */
 .modal-dialog {
-  margin-top: 150px;
+  margin-top: 0px;
 }
 
 .modal-content {
@@ -8565,7 +8570,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .modal-header {
-  padding: 0;
+  padding: 30px;
   border: 0;
 }
 .modal-header .close {
@@ -8734,8 +8739,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .ltn__gallery-filter-menu .active,
 .ltn__tab-menu a.active {
   color: var(--white);
-  background-color: var(--ltn__primary-color);
-  border-color: var(--ltn__primary-color);
+  background-color: var(--ltn__secondary-color);
+  border-color: var(--ltn__secondary-color);
 }
 
 .ltn__tab-menu-top-left {
@@ -8750,8 +8755,12 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   top: 0;
 }
 
+.ltn__gallery-filter-menu {
+  text-align: center;
+}
 .ltn__gallery-filter-menu.text-uppercase button {
   text-transform: uppercase;
+  border-radius: 5px;
 }
 
 .ltn__tab-menu-2 a {
@@ -9461,7 +9470,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   margin-bottom: 30px;
 }
 .ltn__gallery-item:hover .ltn__gallery-item-img::before {
-  opacity: 0.9;
+  opacity: 0.8;
   visibility: visible;
 }
 .ltn__gallery-item:hover .ltn__gallery-item-img img {
@@ -9548,12 +9557,12 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 /* Gallery Style 2 */
 .ltn__gallery-style-2 .ltn__gallery-item-info {
   position: absolute;
-  bottom: -30px;
+  top: -30px;
+  transform: translateY(-50%);
   left: 0;
   right: 0;
-  margin: 0 auto;
+  margin: auto;
   text-align: center;
-  background: var(--gradient-color-3);
   transition: all 0.3s ease 0s;
   opacity: 0;
   visibility: hidden;
@@ -9562,7 +9571,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   color: var(--white);
 }
 .ltn__gallery-style-2 .ltn__gallery-item:hover .ltn__gallery-item-info {
-  bottom: 0px;
+  top: 50%;
   opacity: 1;
   visibility: visible;
 }

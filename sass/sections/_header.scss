@@ -20,7 +20,7 @@
     Header
 -------------------------------------------------------------- */
 .ltn__header-area {
-    z-index: 9999;
+    z-index: 999;
     position: relative;
 }
 /* ----------------------------------------------
@@ -225,6 +225,9 @@
 .ltn__main-menu > ul {
     display: flex;
     padding: 0;
+    @media (max-width: 1200px) {
+        flex-direction: column;
+    }
 }
 .ltn__main-menu li {
     list-style: none;
@@ -253,8 +256,8 @@
 }
 /* Customize Header */
 .ltn__main-menu > .ltn__custom > li > a {
-    font-size: 18px;
-}
+    font-size: 17px;
+} 
 
 .ltn__main-menu li:hover > a {
     color: var(--ltn__secondary-color);

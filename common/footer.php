@@ -27,11 +27,11 @@
 
                 <div class="row justify-content-between">
                     <!-- Footer Left Section  -->
-                    <div class="col-xl-3 col-md-6 col-sm-6 col-12">
+                    <div class="col-xl-6 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-about-widget">
                             <div class="footer-logo">
                                 <div class="site-logo">
-                                    <img src="img/logo-2.png" alt="Logo">
+                                    <img src="img/jd-logo1.png" alt="Logo">
                                 </div>
                             </div>
                             <p>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.</p>

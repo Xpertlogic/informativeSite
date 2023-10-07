@@ -526,13 +526,13 @@
     Modal Area
 ---------------------------------------------------- */
 .modal-dialog {
-    margin-top: 150px;
+    margin-top: 0px;
 }
 .modal-content {
     border-radius: 0;
 }
 .modal-header {
-    padding: 0;
+    padding: 30px;
     border: 0;
     .close {
         position: absolute;
@@ -692,8 +692,8 @@
 .ltn__gallery-filter-menu .active,
 .ltn__tab-menu a.active {
     color: var(--white);
-    background-color: var(--ltn__primary-color);
-    border-color: var(--ltn__primary-color);
+    background-color: var(--ltn__secondary-color);
+    border-color: var(--ltn__secondary-color);
 }
 .ltn__tab-menu-top-left {
     position: absolute;
@@ -706,9 +706,11 @@
     top: 0;
 }
 .ltn__gallery-filter-menu {
+    text-align: center;
     &.text-uppercase {
         button {
             text-transform: uppercase;
+            border-radius: 5px;
         }
     }
 }
