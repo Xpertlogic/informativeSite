@@ -234,7 +234,7 @@
                             </li>
                         </ul>
                         <div class="  ltn__animation-pulse2 text-center mt-30">
-                            <a class="ltn__video-play-btn bg-white--- ltn__secondary-bg" href="https://www.youtube.com/watch?v=3RMxY1d3yWs" data-rel="lightcase">
+                            <a class="ltn__video-play-btn bg-white--- ltn__secondary-bg" href="https://www.youtube.com/embed/3RMxY1d3yWs?si=nSJHzzxZTHzsGDEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen data-rel="lightcase">
                                 <i class="icon-play  ltn__secondary-color--- white-color"></i>
                             </a>
                         </div>
