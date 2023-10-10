@@ -159,27 +159,25 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-30">
                             <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">Dream Living Spaces
-                                Setting New Build</h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
+                            <h1 class="section-title">Experience a resort-style retired life!</h1>
+                            <p>We take care of every little need of our elderly residents so that they can live life to the fullest.</p>
                         </div>                        
-                        <div class="ltn__feature-item ltn__feature-item-3">
-                            <div class="ltn__feature-icon">
-                                <span><i class="flaticon-house-4"></i></span>
-                            </div>
-                            <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">The Perfect Residency</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut labore et</p>
-                            </div>
-                        </div>
                         <div class="ltn__feature-item ltn__feature-item-3">
                             <div class="ltn__feature-icon">
                                 <span><i class="flaticon-call-center-agent"></i></span>
                             </div>
                             <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">Global Architect Experts</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut labore et</p>
+                                <h4><a href="service-details.html">Care</a></h4>
+                                <p>Get high quality care provided by staff trained in the best practices of geriatric care coupled with with 24x7 security</p>
+                            </div>
+                        </div>
+                        <div class="ltn__feature-item ltn__feature-item-3">
+                            <div class="ltn__feature-icon">
+                                <span><i class="flaticon-house-4"></i></span>
+                            </div>
+                            <div class="ltn__feature-info">
+                                <h4><a href="service-details.html">Comfort</a></h4>
+                                <p>Experience a maintenance free resort-style retired life with world class amenities and a rich social life</p>
                             </div>
                         </div>
                         <div class="ltn__feature-item ltn__feature-item-3">
@@ -187,15 +185,15 @@
                                 <span><i class="flaticon-maps-and-location"></i></span>
                             </div>
                             <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">Built-in Storage Cupboards</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut labore et</p>
+                                <h4><a href="service-details.html">Companionship</a></h4>
+                                <p>Enjoy living with friends who have all the time to hear your stories or hold your hand, whenever you need</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-img-wrap about-img-left">
-                        <img src="img/others/11.png" alt="About Us Image">
+                        <img src="img/others/about-img.png" alt="About Us Image">
                         <div class="about-us-img-info about-us-img-info-2 about-us-img-info-3 d-none">
                             
                             <div class="ltn__video-img ltn__animation-pulse1">
@@ -219,40 +217,24 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
-                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Building Facilities</h6>
-                            <h1 class="section-title">Making living spaces
-                                More Beautiful</h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
-                        </div>
+                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Senior Living Facility</h6>
+                            <h1 class="section-title">Experience a resort-style retired life!</h1>
+                            <p>Welcome to Jagridit Dham, where life begins at age 60!
+                              Fully operational luxury elderly living homes designed for a maintenance free, resort-like living in private residences with warm gathering spaces, activities to exercise the mind and body and plenty of occasions to celebrate.
+                            </p>
+                            </div>
+                            <h4 class="mb-0">What’s included -</h4>
                         <ul class="ltn__list-item-half ltn__list-item-half-2 list-item-margin clearfix">
-                            <li>
-                                <i class="icon-done"></i>
-                                Living rooms are pre-wired for Surround
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                Luxurious interior design and amenities
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                Nestled in the Buckhead Vinings communities
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                Private balconies with stunning views
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                A rare combination of inspired architecture
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                Outdoor grilling with dining court
+                            <li><i class="icon-done"></i>All utilities including phone, cable, internet and 24x7 DG power back-up</li>
+                            <li><i class="icon-done"></i>Housekeeping and laundry services</li>
+                            <li><i class="icon-done"></i>Emergency call/response system, visiting doctors; specialists on call and trained nurses round the clock</li>
+                            <li><i class="icon-done"></i>Temple complex within premises, Yoga club, Meditation hall, and wellness spa</li>
+                            <li><i class="icon-done"></i>Gym, swimming pool, beauty salon, theater room and indoor gaming zone</li>
+                            <li><i class="icon-done"></i>AC dining hall and the centralized kitchen and much more…
                             </li>
                         </ul>
                         <div class="  ltn__animation-pulse2 text-center mt-30">
-                            <a class="ltn__video-play-btn bg-white--- ltn__secondary-bg" href="https://www.youtube.com/embed/HnbMYzdjuBs?autoplay=1&amp;showinfo=0" data-rel="lightcase">
+                            <a class="ltn__video-play-btn bg-white--- ltn__secondary-bg" href="https://www.youtube.com/watch?v=3RMxY1d3yWs" data-rel="lightcase">
                                 <i class="icon-play  ltn__secondary-color--- white-color"></i>
                             </a>
                         </div>
