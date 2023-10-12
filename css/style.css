@@ -10531,6 +10531,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   border: 1px solid var(--border-color-8);
   margin-bottom: 30px;
   padding: 40px 30px 35px;
+  height: 90%;
 }
 .ltn__feature-item-6::before {
   position: absolute;

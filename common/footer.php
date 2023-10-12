@@ -82,7 +82,7 @@
                                     <li><a href="https://www.facebook.com/jagritidham" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="https://in.linkedin.com/showcase/jagriti-dham/" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
-                                    <li><a href="#" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCJxI3WR-Hz4Kugkdii10Ckw/feed" title="Youtube"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="https://www.instagram.com/jagriti_dham/" title="Instagram"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
