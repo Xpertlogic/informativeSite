@@ -29,10 +29,10 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated">Senior Living Facility</h6>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
                                             <h1 class="slide-title animated ">Welcome to life...<br>at <span>Jagriti Dham.</span></h1>
                                             <div class="slide-brief animated">
-                                                <p>Best ready-to-move-in independent and assisted eldercare living in Eastern India.</p>
+                                                <p>Fully operational ready-to-move luxury living homes designed for seniors</p>
                                             </div>
                                             <div class="btn-wrapper animated">
                                                 <a href="about.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
@@ -40,7 +40,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-banner.jpg" alt="#">
+                                        <img src="img/slider/jd-1st-banner.jpg" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -60,10 +60,10 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated">Senior Living Facility</h6>
-                                            <h1 class="slide-title animated ">bhalo<br> theko..</h1>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
+                                            <h1 class="slide-title animated ">At <span>Jagriti Dham</span><br> Let life begin at 60!</h1>
                                             <div class="slide-brief animated">
-                                                <p>We want nothing but the best for those who have made us who we are today.</p>
+                                                <p>Add MORE to your LIFE! Come enjoy a luxurious lifestyle in your private residence</p>
                                             </div>
                                             <div class="btn-wrapper animated">
                                                 <a href="service.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
@@ -71,7 +71,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-banner2.jpg" alt="#">
+                                        <img src="img/slider/jd-2nd-banner.jpg" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -91,10 +91,10 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated">Senior Living Facility</h6>
-                                            <h1 class="slide-title animated ">“It’s time to enhance the lives of elders in the city of Kolkata...”</h1>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
+                                            <h1 class="slide-title animated ">Freedom and independence, once again</h1>
                                             <div class="slide-brief animated">
-                                                <p>Ravindra Chamaria, Chairman & MD -Infinity Group</p>
+                                                <p>Freedom to live a maintenance-free life with all amenities, freedom to engage in various activities, and pursue new hobbies.</p>
                                             </div>
                                             <div class="btn-wrapper animated">
                                                 <a href="service.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
@@ -102,7 +102,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-banner3.jpg" alt="#">
+                                        <img src="img/slider/jd-3rd-banner.jpg" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -129,13 +129,13 @@
                 <div class="ltn__slider-11-img-slide-arrow-inner">
                     <div class="ltn__slider-11-img-slide-arrow-active">
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-banner.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-1st-banner.jpg" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-banner2.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-2nd-banner.jpg" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-banner3.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-3rd-banner.jpg" alt="Flower Image">
                         </div>
                     </div>
                     <!-- slider-4-slide-item-count -->
@@ -262,6 +262,7 @@
                 </div>
             </div>
             <div class="row ltn__custom-gutter---  justify-content-center">
+                <!-- 1st Card  -->
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
@@ -269,12 +270,13 @@
                             <img src="img/icons/icon-img/21.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Buy a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a>
+                            <h3><a href="service-details.html">Independent Living</a></h3>
+                            <p>Enjoy a self-reliant lifestyle in a supportive community.</p>
+                            <a class="ltn__service-btn" href="service-details.html">Talk to an expert <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>
+                <!-- 2nd Card  -->
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1 active">
                         <div class="ltn__feature-icon">
@@ -282,12 +284,13 @@
                             <img src="img/icons/icon-img/22.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Rent a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a>
+                            <h3><a href="service-details.html">Assisted Living</a></h3>
+                            <p>Receive personalized care and assistance while maintaining your independence.</p>
+                            <a class="ltn__service-btn" href="service-details.html">Talk to an expert <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>
+                <!-- 3rd Card  -->
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
@@ -295,9 +298,9 @@
                             <img src="img/icons/icon-img/23.png" alt="#">
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Sell a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a>
+                            <h3><a href="service-details.html">Memory Care</a></h3>
+                            <p>Specialized support for individuals with memory-related conditions, ensuring their safety and well-being.</p>
+                            <a class="ltn__service-btn" href="service-details.html">Talk to an expert <i class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
                 </div>
@@ -427,12 +430,16 @@
                 </div>
             </div>
             <div class="row ltn__category-slider-active--- slick-arrow-1 justify-content-center">
+            <!-- Aminities 1st Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-car"></i></span>
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-car"></i> -->
+                                <img src="img/icons/icon-img/acrooms.png" alt="#">
+                            </span>
                             <span class="category-number">01</span>
-                            <span class="category-title">Parking Space</span>
+                            <span class="category-title">Full Furnished AC Rooms</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>
@@ -440,12 +447,16 @@
                         </a>
                     </div>
                 </div>
+                <!-- Aminities 2nd Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-swimming"></i></span>
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-swimming"></i> -->
+                                <img src="img/icons/icon-img/doctor.png" alt="#">
+                            </span>
                             <span class="category-number">02</span>
-                            <span class="category-title">Swimming Pool</span>
+                            <span class="category-title">Doctor Consultation & Medical Record Room</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>
@@ -453,12 +464,16 @@
                         </a>
                     </div>
                 </div>
+                <!-- Aminities 3rd Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-secure-shield"></i></span>
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-secure-shield"></i> -->
+                                <img src="img/icons/icon-img/meditation-room.png" alt="#">
+                            </span>
                             <span class="category-number">03</span>
-                            <span class="category-title">Private Security</span>
+                            <span class="category-title">Yoga and Meditation Room</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>
@@ -466,38 +481,16 @@
                         </a>
                     </div>
                 </div>
+                <!-- Aminities 4th Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-stethoscope"></i></span>
-                            <span class="category-number">04</span>
-                            <span class="category-title">Medical Center</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-bed-1"></i> -->
+                                <img src="img/icons/icon-img/temple.png" alt="#">
                             </span>
-                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-book"></i></span>
-                            <span class="category-number">05</span>
-                            <span class="category-title">Library Area</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
-                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-bed-1"></i></span>
                             <span class="category-number">06</span>
-                            <span class="category-title">King Size Beds</span>
+                            <span class="category-title">Temple within Campus</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>
@@ -505,12 +498,50 @@
                         </a>
                     </div>
                 </div>
+                <!-- Aminities 5th Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-home-2"></i></span>
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-book"></i> -->
+                                <img src="img/icons/icon-img/library.png" alt="#">
+                            </span>
+                            <span class="category-number">05</span>
+                            <span class="category-title">Library</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <!-- Aminities 6th Card  -->
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-stethoscope"></i> -->
+                                <img src="img/icons/icon-img/gym.png" alt="#">
+                            </span>
+                            <span class="category-number">04</span>
+                            <span class="category-title">Gymnasium</span>
+                            <span class="category-brief">
+                                Enimad minim veniam quis no exercitation ullamco lab
+                            </span>
+                            <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <!-- Aminities 7th Card  -->
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
+                        <a href="shop.html">
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-home-2"></i> -->
+                                <img src="img/icons/icon-img/garden.png" alt="#">
+                            </span>
                             <span class="category-number">07</span>
-                            <span class="category-title">Smart Homes</span>
+                            <span class="category-title">Landscaped Gardens</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>
@@ -518,12 +549,16 @@
                         </a>
                     </div>
                 </div>
+                <!-- Aminities 8th Card  -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
-                            <span class="category-icon"><i class="flaticon-slider"></i></span>
+                            <span class="category-icon">
+                                <!-- <i class="flaticon-slider"></i> -->
+                                <img src="img/icons/icon-img/table-tennis.png" alt="#">
+                            </span>
                             <span class="category-number">08</span>
-                            <span class="category-title">Kid’s Playland</span>
+                            <span class="category-title">Playing Area</span>
                             <span class="category-brief">
                                 Enimad minim veniam quis no exercitation ullamco lab
                             </span>

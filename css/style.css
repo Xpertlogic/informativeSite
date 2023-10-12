@@ -10201,7 +10201,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .ltn__category-item-5 a .category-icon {
   width: 100px;
   height: 100px;
-  line-height: 115px;
+  line-height: 95px;
   font-size: 45px;
   border-radius: 100%;
   background-color: var(--section-bg-5);
@@ -10210,7 +10210,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   margin-bottom: 20px;
 }
 .ltn__category-item-5 a .category-title {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 600;
   font-family: var(--ltn__heading-font);
   color: var(--ltn__heading-color);
