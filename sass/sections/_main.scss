@@ -643,7 +643,7 @@
         .category-icon {
             width: 100px;
             height: 100px;
-            line-height: 115px;
+            line-height: 95px;
             font-size: 45px;
             border-radius: 100%;
             background-color: var(--section-bg-5);
@@ -652,7 +652,7 @@
             margin-bottom: 20px;
         }
         .category-title {
-            font-size: 22px;
+            font-size: 18px;
             font-weight: 600;
             font-family: var(--ltn__heading-font);
             color: var(--ltn__heading-color);
@@ -1007,6 +1007,7 @@
     border: 1px solid var(--border-color-8);
     margin-bottom: 30px;
     padding: 40px 30px 35px;
+    height: 90%;
     &::before {
         position: absolute;
         content: "";

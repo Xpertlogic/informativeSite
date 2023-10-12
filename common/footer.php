@@ -34,7 +34,7 @@
                                     <img src="img/jd-logo1.png" alt="Logo">
                                 </div>
                             </div>
-                            <p>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.</p>
+                            <p>At Jagriti Dham, seniors are encouraged to live life to the fullest. We believe in making the sunset years shine brightly. We also happen to be Eastern India’s first Green Certified Senior Living Facility. So, come, live here, and experience a grand life all over again!</p>
                             
                         </div>
                     </div>
@@ -48,7 +48,15 @@
                                             <i class="icon-placeholder"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p>H. No 74, Saraswati Kunj, Sector 53,Gurugram Haryana 122003</p>
+                                            <p>Jagriti Dham, Opposite to IBIZA resort, Kriparampur, Diamond Harbour Road, Kolkata – 743503</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                    <div class="footer-address-icon">
+                                    <i class="icon-call"></i>
+                                    </div>
+                                    <div class="footer-address-info">
+                                            <p><a href="tel:88200 22022">88200 22022</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -56,7 +64,7 @@
                                             <i class="icon-call"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="tel:+0123-456789">+0123-456789</a></p>
+                                            <p><a href="tel:1800 843 6400">1800 843 6400</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -64,17 +72,18 @@
                                             <i class="icon-mail"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="mailto:example@example.com">example@example.com</a></p>
+                                            <p><a href="mailto:example@example.com">contact@jagritidham.com</a></p>
                                         </div>
                                     </li>
                                 </ul>
                             </div> 
                     <div class="ltn__social-media mt-20">
                                 <ul>
-                                    <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.facebook.com/jagritidham" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
-                                    <li><a href="#" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="https://in.linkedin.com/showcase/jagriti-dham/" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCJxI3WR-Hz4Kugkdii10Ckw/feed" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="https://www.instagram.com/jagriti_dham/" title="Instagram"><i class="fab fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                     </div> 
