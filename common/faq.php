@@ -1,5 +1,5 @@
  <!-- FAQ AREA START (faq-2) (ID > accordion_2) -->
- <div class="ltn__faq-area mb-50">
+ <div class="ltn__faq-area mb-50 pb-70">
         <div class="container">
         <div class="row">
                 <div class="col-lg-12">

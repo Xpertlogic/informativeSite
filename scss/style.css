@@ -10189,6 +10189,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   box-shadow: var(--ltn__box-shadow-4);
   border-radius: 10px;
   margin-bottom: 50px;
+  height: 90%;
 }
 .ltn__category-item-5 a {
   padding: 40px 30px 35px;
@@ -10531,7 +10532,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   border: 1px solid var(--border-color-8);
   margin-bottom: 30px;
   padding: 40px 30px 35px;
-  max-height: 90%;
+  height: 90%;
 }
 .ltn__feature-item-6::before {
   position: absolute;

@@ -35,7 +35,9 @@
                                                 <p>Fully operational ready-to-move luxury living homes designed for seniors</p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="about.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
+                                                <a class="theme-btn-1 btn btn-effect-1" 
+                                                href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                                >Connect with us</a>
                                             </div>
                                         </div>
                                     </div>
@@ -66,7 +68,9 @@
                                                 <p>Add MORE to your LIFE! Come enjoy a luxurious lifestyle in your private residence</p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
+                                            <a class="theme-btn-1 btn btn-effect-1" 
+                                                href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                                >Connect with us</a>
                                             </div>
                                         </div>
                                     </div>
@@ -97,7 +101,9 @@
                                                 <p>Freedom to live a maintenance-free life with all amenities, freedom to engage in various activities, and pursue new hobbies.</p>
                                             </div>
                                             <div class="btn-wrapper animated">
-                                                <a href="service.html" class="theme-btn-1 btn btn-effect-1">Connect with us</a>
+                                            <a class="theme-btn-1 btn btn-effect-1" 
+                                                href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                                >Connect with us</a>
                                             </div>
                                         </div>
                                     </div>
@@ -308,6 +314,12 @@
         </div>
     </div>
     <!-- FEATURE AREA END -->
+ 
+    <!-- Testimonial Section  -->
+   <?php include 'common/testimonials.php' ?>
+
+    <!-- Cta banner section  -->
+    <?php include 'common/ctabanner.php' ?>
 
     <!-- UPCOMING PROJECT AREA START -->
     <div class="ltn__upcoming-project-area section-bg-1--- bg-image-top pt-115 pb-65" data-bs-bg="img/bg/22.jpg">
@@ -411,12 +423,6 @@
         </div>
     </div>
     <!-- UPCOMING PROJECT AREA END -->
-
-    <!-- Gallery section  -->
-    <?php include 'common/gallery.php'?>
-
-    <!-- FAQ section  -->
-    <?php include 'common/faq.php'?>
 
     <!-- CATEGORY AREA START -->
     <div class="ltn__category-area ltn__product-gutter section-bg-1---  pb-70">
@@ -571,16 +577,14 @@
     </div>
     <!-- CATEGORY AREA END -->
 
-   <?php include 'common/testimonials.php' ?>
+    <!-- Gallery section  -->
+    <?php include 'common/gallery.php'?>
 
-   <!-- Awards section  -->
+     <!-- Awards section  -->
    <?php include 'common/award.php' ?>
 
-   <!-- Cta banner section  -->
-   <?php include 'common/ctabanner.php' ?>
-
-    <!-- BLOG AREA START (blog-3) -->
-    <div class="ltn__blog-area pt-115--- pb-70">
+   <!-- BLOG AREA START (blog-3) -->
+   <div class="ltn__blog-area pt-115--- pb-70">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -750,6 +754,11 @@
             </div>
         </div>
     </div>
+
+    <!-- FAQ section  -->
+    <?php include 'common/faq.php'?>
+
+
     <?php include 'common/contact-modal.php'?>
     <!-- Button trigger modal -->
 
