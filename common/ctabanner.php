@@ -1,5 +1,5 @@
 <!-- UPCOMING PROJECT AREA START -->
-<div class="ltn__upcoming-project-area section-bg-1--- bg-image-top mb-50 pt-115 pb-65" data-bs-bg="img/bg/22.jpg">
+<div class="ltn__upcoming-project-area section-bg-1--- bg-image-top  pt-115 pb-65" data-bs-bg="img/bg/22.jpg">
 <div class="col-lg-12">
                 <div class="section-title-area ltn__section-title-2--- text-center">
                     <h2 class="section-title">Banner</h2>
