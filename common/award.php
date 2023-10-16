@@ -1,9 +1,8 @@
 <!-- TEAM AREA START (Team - 3) -->
-<div class="ltn__team-area ltn__blog-area pt-110--- pb-90">
+<!-- <div class="ltn__team-area ltn__blog-area pt-110--- pb-90">
         <div class="container">
         <div class="col-lg-12">
                 <div class="section-title-area ltn__section-title-2--- text-center">
-                    <!-- <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Gallery</h6> -->
                     <h2 class="section-title">Awards</h2>
                 </div>
             </div>
@@ -64,4 +63,4 @@
                 </div>
 </div>
 </div>
-</div>
+</div> -->

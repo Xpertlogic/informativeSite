@@ -31,7 +31,7 @@
                         <div class="footer-widget footer-about-widget">
                             <div class="footer-logo">
                                 <div class="site-logo">
-                                    <img src="img/jd-footer-logo.png" alt="Logo">
+                                    <img src="img/jd-footer-logo.webp" alt="Logo">
                                 </div>
                             </div>
                             <p>At Jagriti Dham, seniors are encouraged to live life to the fullest. We believe in making the sunset years shine brightly. We also happen to be Eastern India’s first Green Certified Senior Living Facility. So, come, live here, and experience a grand life all over again!</p>
