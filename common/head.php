@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Place favicon.png in the root directory -->
-    <link rel="shortcut icon" href="img/jd-favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="img/jd-favicon.webp" type="image/x-icon" />
     <!-- Font Icons css -->
     <link rel="stylesheet" href="css/font-icons.css">
     <!-- plugins css -->

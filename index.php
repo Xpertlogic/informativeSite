@@ -42,7 +42,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-1st-banner.jpg" alt="#">
+                                        <img src="img/slider/jd-1st-banner.webp" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-2nd-banner.jpg" alt="#">
+                                        <img src="img/slider/jd-2nd-banner.webp" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="img/slider/jd-3rd-banner.jpg" alt="#">
+                                        <img src="img/slider/jd-3rd-banner.webp" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -135,13 +135,13 @@
                 <div class="ltn__slider-11-img-slide-arrow-inner">
                     <div class="ltn__slider-11-img-slide-arrow-active">
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-1st-banner.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-1st-banner.webp" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-2nd-banner.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-2nd-banner.webp" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="img/slider/jd-3rd-banner.jpg" alt="Flower Image">
+                            <img src="img/slider/jd-3rd-banner.webp" alt="Flower Image">
                         </div>
                     </div>
                     <!-- slider-4-slide-item-count -->
@@ -197,9 +197,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-center">
+                <div class="col-lg-6 align-self-center ">
                     <div class="about-us-img-wrap about-img-left">
-                        <img src="img/others/about-img.png" alt="About Us Image">
+                        <img src="img/others/about-img.webp" alt="About Us Image">
                         <div class="about-us-img-info about-us-img-info-2 about-us-img-info-3 d-none">
                             
                             <div class="ltn__video-img ltn__animation-pulse1">
@@ -223,20 +223,21 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
-                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Senior Living Facility</h6>
-                            <h1 class="section-title">Experience a resort-style retired life!</h1>
-                            <p>Welcome to Jagridit Dham, where life begins at age 60!
-                              Fully operational luxury elderly living homes designed for a maintenance free, resort-like living in private residences with warm gathering spaces, activities to exercise the mind and body and plenty of occasions to celebrate.
+                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Senior Living Homes</h6>
+                            <h1 class="section-title">Let life begin at age 60!</h1>
+                            <p>Move to a fully operational luxury elderly living home designed for a maintenance free, resort-like living in a private residence with warm gathering spaces, activities to exercise the mind and body and plenty of occasions to celebrate.
                             </p>
                             </div>
                             <h4 class="mb-0">What’s included -</h4>
                         <ul class="ltn__list-item-half ltn__list-item-half-2 list-item-margin clearfix">
-                            <li><i class="icon-done"></i>All utilities including phone, cable, internet and 24x7 DG power back-up</li>
-                            <li><i class="icon-done"></i>Housekeeping and laundry services</li>
-                            <li><i class="icon-done"></i>Emergency call/response system, visiting doctors; specialists on call and trained nurses round the clock</li>
-                            <li><i class="icon-done"></i>Temple complex within premises, Yoga club, Meditation hall, and wellness spa</li>
-                            <li><i class="icon-done"></i>Gym, swimming pool, beauty salon, theater room and indoor gaming zone</li>
-                            <li><i class="icon-done"></i>AC dining hall and the centralized kitchen and much more…
+                            <li><i class="icon-done"></i>Fully furnished AC Rooms with attached Bathroom and Balcony, designed in an elder friendly way</li>
+                            <li><i class="icon-done"></i>All Utilities including Meals, Phone/Cable/Internet and 24x7 DG Power Back-up</li>
+                            <li><i class="icon-done"></i>24x7 Common Attendants, Security, Daily Housekeeping and Laundry Services</li>
+                            <li><i class="icon-done"></i>Emergency Call/Response System, Visiting Doctors, and Trained Nurses round the clock</li>
+                            <li><i class="icon-done"></i>Temple complex within premises, Yoga & Meditation Hall, and Wellness Spa</li>
+                            <li><i class="icon-done"></i>Library, Gym, Swimming Pool, Beauty Salon, Theater and indoor Gaming Zone
+                            </li>
+                            <li><i class="icon-done"></i>AC Dining Hall and the Centralized Kitchen and much more...
                             </li>
                         </ul>
                         <div class="  ltn__animation-pulse2 text-center mt-30">
@@ -273,7 +274,7 @@
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
                             <!-- <span><i class="flaticon-house"></i></span> -->
-                            <img src="img/icons/icon-img/21.png" alt="#">
+                            <img src="img/icons/icon-img/Independent-living.webp" alt="#">
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Independent Living</a></h3>
@@ -287,7 +288,7 @@
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1 active">
                         <div class="ltn__feature-icon">
                             <!-- <span><i class="flaticon-house-3"></i></span> -->
-                            <img src="img/icons/icon-img/22.png" alt="#">
+                            <img src="img/icons/icon-img/assisted-living.webp" alt="#">
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Assisted Living</a></h3>
@@ -297,11 +298,11 @@
                     </div>
                 </div>
                 <!-- 3rd Card  -->
-                <div class="col-lg-4 col-sm-6 col-12">
+                <div class="col-lg-4 col-sm-6 col-12"> 
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
                         <div class="ltn__feature-icon">
                             <!-- <span><i class="flaticon-deal-1"></i></span> -->
-                            <img src="img/icons/icon-img/23.png" alt="#">
+                            <img src="img/icons/icon-img/Memory-care.webp" alt="#">
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Memory Care</a></h3>
@@ -322,7 +323,7 @@
     <?php include 'common/ctabanner.php' ?>
 
     <!-- UPCOMING PROJECT AREA START -->
-    <div class="ltn__upcoming-project-area section-bg-1--- bg-image-top pt-115 pb-65" data-bs-bg="img/bg/22.jpg">
+    <div class="ltn__upcoming-project-area section-bg-1--- bg-image-top pt-115 pb-65" data-bs-bg="img/bg/feature-img.webp">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -334,13 +335,13 @@
                 </div>
             </div>
             <div class="row ltn__upcoming-project-slider-1-active slick-arrow-3">
-                <!-- upcoming-project-item -->
+                <!-- upcoming-project-item 1-->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="img/product-3/3.jpg" alt="#">
+                                    <img src="img/product-3/feature-room1.webp" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
@@ -362,13 +363,13 @@
                         </div>
                     </div>
                 </div>
-                <!-- upcoming-project-item -->
+                <!-- upcoming-project-item 2-->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="img/product-3/2.jpg" alt="#">
+                                    <img src="img/product-3/feature-room1.webp" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
@@ -390,13 +391,13 @@
                         </div>
                     </div>
                 </div>
-                <!-- upcoming-project-item -->
+                <!-- upcoming-project-item 3-->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="img/product-3/7.jpg" alt="#">
+                                    <img src="img/product-3/feature-room1.webp" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
@@ -431,7 +432,7 @@
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
                         <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Our Aminities</h6>
-                        <h1 class="section-title">Building Aminities</h1>
+                        <h1 class="section-title">ON-PREMISE AMENITIES</h1>
                     </div>
                 </div>
             </div>
@@ -442,13 +443,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-car"></i> -->
-                                <img src="img/icons/icon-img/acrooms.png" alt="#">
+                                <img src="img/icons/icon-img/1-bedroom.webp" alt="#">
                             </span>
-                            <span class="category-number">01</span>
+                            <!-- <span class="category-number">01</span> -->
                             <span class="category-title">Full Furnished AC Rooms</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <span class="category-brief">with attached bathroom and balcony, designed in an elder friendly way</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -459,12 +458,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-swimming"></i> -->
-                                <img src="img/icons/icon-img/doctor.png" alt="#">
+                                <img src="img/icons/icon-img/2-Meals.webp" alt="#">
                             </span>
-                            <span class="category-number">02</span>
-                            <span class="category-title">Doctor Consultation & Medical Record Room</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                            <!-- <span class="category-number">02</span> -->
+                            <span class="category-title">Nutritious Meals</span>
+                            <span class="category-brief">from centralized hygienic kitchen, served in a fully AC dining hall
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -476,13 +474,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-secure-shield"></i> -->
-                                <img src="img/icons/icon-img/meditation-room.png" alt="#">
+                                <img src="img/icons/icon-img/3-Housekeeping.webp" alt="#">
                             </span>
-                            <span class="category-number">03</span>
-                            <span class="category-title">Yoga and Meditation Room</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <!-- <span class="category-number">03</span> -->
+                            <span class="category-title">Daily Housekeeping and Laundry </span>
+                            <span class="category-brief">for a maintenance-free resort-like lifestyle</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -493,13 +489,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-bed-1"></i> -->
-                                <img src="img/icons/icon-img/temple.png" alt="#">
+                                <img src="img/icons/icon-img/4-ERT.webp" alt="#">
                             </span>
-                            <span class="category-number">06</span>
-                            <span class="category-title">Temple within Campus</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <!-- <span class="category-number">06</span> -->
+                            <span class="category-title">Emergency Response Team</span>
+                            <span class="category-brief">with visiting doctors and trained nurses round the clock</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -510,12 +504,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-book"></i> -->
-                                <img src="img/icons/icon-img/library.png" alt="#">
+                                <img src="img/icons/icon-img/5-Attendants.webp" alt="#">
                             </span>
-                            <span class="category-number">05</span>
-                            <span class="category-title">Library</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                            <!-- <span class="category-number">05</span> -->
+                            <span class="category-title">24x7 Common Attendants</span>
+                            <span class="category-brief">to take care of all the daily needs
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -527,13 +520,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-stethoscope"></i> -->
-                                <img src="img/icons/icon-img/gym.png" alt="#">
+                                <img src="img/icons/icon-img/6-Security.webp" alt="#">
                             </span>
-                            <span class="category-number">04</span>
-                            <span class="category-title">Gymnasium</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <!-- <span class="category-number">04</span> -->
+                            <span class="category-title">24x7 Security</span>
+                            <span class="category-brief">with manned gate, cctv surveillance and emergency call switch in every room</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -544,13 +535,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-home-2"></i> -->
-                                <img src="img/icons/icon-img/garden.png" alt="#">
+                                <img src="img/icons/icon-img/7-amenities.webp" alt="#">
                             </span>
-                            <span class="category-number">07</span>
-                            <span class="category-title">Landscaped Gardens</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <!-- <span class="category-number">07</span> -->
+                            <span class="category-title">Resort-style Amenities</span>
+                            <span class="category-brief">with phone, TV/cable, wifi internet and 24x7 power backup</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -561,13 +550,11 @@
                         <a href="shop.html">
                             <span class="category-icon">
                                 <!-- <i class="flaticon-slider"></i> -->
-                                <img src="img/icons/icon-img/table-tennis.png" alt="#">
+                                <img src="img/icons/icon-img/8-Campus.webp" alt="#">
                             </span>
-                            <span class="category-number">08</span>
-                            <span class="category-title">Playing Area</span>
-                            <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
-                            </span>
+                            <!-- <span class="category-number">08</span> -->
+                            <span class="category-title">On Campus Facilities</span>
+                            <span class="category-brief"> temple, yoga and meditation room, library, gym, spa, salon and gaming zone</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -581,7 +568,7 @@
     <?php include 'common/gallery.php'?>
 
      <!-- Awards section  -->
-   <?php include 'common/award.php' ?>
+    <?php include 'common/award.php' ?> 
 
    <!-- BLOG AREA START (blog-3) -->
    <div class="ltn__blog-area pt-115--- pb-70">
