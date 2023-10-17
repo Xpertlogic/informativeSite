@@ -29,7 +29,7 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Homes</h6>
                                             <h1 class="slide-title animated ">Welcome to life...<br>at <span>Jagriti Dham.</span></h1>
                                             <div class="slide-brief animated">
                                                 <p>Fully operational ready-to-move luxury living homes designed for seniors</p>
@@ -62,7 +62,7 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Homes</h6>
                                             <h1 class="slide-title animated ">At <span>Jagriti Dham</span><br> Let life begin at 60!</h1>
                                             <div class="slide-brief animated">
                                                 <p>Add MORE to your LIFE! Come enjoy a luxurious lifestyle in your private residence</p>
@@ -95,7 +95,7 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Facility</h6>
+                                            <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Senior Living Homes</h6>
                                             <h1 class="slide-title animated ">Freedom and independence, once again</h1>
                                             <div class="slide-brief animated">
                                                 <p>Freedom to live a maintenance-free life with all amenities, freedom to engage in various activities, and pursue new hobbies.</p>
@@ -328,9 +328,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center---">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">Upcoming Projects</h6>
-                        <h1 class="section-title  white-color">Dream Living Space <br>
-                            Setting New Standards</h1>
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">Room Features</h6>
+                        <h1 class="section-title  white-color">Life begins at sixty !</h1>
                     </div>
                 </div>
             </div>
@@ -344,74 +343,19 @@
                                     <img src="img/product-3/feature-room1.webp" alt="#">
                                 </div>
                             </div>
-                            <div class="col-lg-5 section-bg-1">
+                            <div class="col-lg-5 ">
                                 <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="section-subtitle ltn__secondary-color mb-0">About Projects</h6>
-                                    <h1 class="mb-30">Upcoming Projects</h1>
+                                    <h6 class="section-subtitle ltn__secondary-color mb-0">About Rooms</h6>
+                                    <h4 class="mb-20">Luxuriously built, independent living senior citizen facility.</h4>
                                     <ul class="mt">
-                                        <li>1. Project Name: <span>Quarter</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
+                                        <li>1. Furnished and fully serviced 500 sq ft AC rooms with attached bathroom, balcony, pantry with option of single or double occupancy</li>
+                                        <li>2. Beds, wardrobes, personal lockers, sofa, flat-screen TV, refrigerator, kitchenette, study table</li>
+                                        <li>3. Large sliding doors for adequate sunlight and fresh air</li>
+                                        <li>4. Wi-fi connectivity, intercom, adequate power back up</li>
+                                        <li>5. Bathroom with handrails, grab bars etc</li>
+                                        <li>6. 24x7 attendant, housekeeping & maintenance</li>
                                     </ul>
-                                    <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download Brochure</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- upcoming-project-item 2-->
-                <div class="col-lg-12">
-                    <div class="ltn__upcoming-project-item">
-                        <div class="row">
-                            <div class="col-lg-7">
-                                <div class="ltn__upcoming-project-img">
-                                    <img src="img/product-3/feature-room1.webp" alt="#">
-                                </div>
-                            </div>
-                            <div class="col-lg-5 section-bg-1">
-                                <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="ltn__secondary-color">About Projects</h6>
-                                    <h1>Upcoming Projects</h1>
-                                    <ul>
-                                        <li>1. Project Name: <span>Quarter</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
-                                    </ul>
-                                    <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download Brochure</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- upcoming-project-item 3-->
-                <div class="col-lg-12">
-                    <div class="ltn__upcoming-project-item">
-                        <div class="row">
-                            <div class="col-lg-7">
-                                <div class="ltn__upcoming-project-img">
-                                    <img src="img/product-3/feature-room1.webp" alt="#">
-                                </div>
-                            </div>
-                            <div class="col-lg-5 section-bg-1">
-                                <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="ltn__secondary-color">About Projects</h6>
-                                    <h1>Upcoming Projects</h1>
-                                    <ul>
-                                        <li>1. Project Name: <span>Quarter</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
-                                    </ul>
-                                    <div class="btn-wrapper animated">
+                                    <div class="btn-wrapper animated ">
                                         <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download Brochure</a>
                                     </div>
                                 </div>
@@ -438,16 +382,16 @@
             </div>
             <div class="row ltn__category-slider-active--- slick-arrow-1 justify-content-center">
             <!-- Aminities 1st Card  -->
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-car"></i> -->
-                                <img src="img/icons/icon-img/1-bedroom.webp" alt="#">
+                                <!-- <i class="flaticon-stethoscope"></i> -->
+                                <img src="img/icons/icon-img/6-Security.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">01</span> -->
-                            <span class="category-title">Full Furnished AC Rooms</span>
-                            <span class="category-brief">with attached bathroom and balcony, designed in an elder friendly way</span>
+                            <!-- <span class="category-number">04</span> -->
+                            <span class="category-title">24x7 Security</span>
+                            <span class="category-brief">with manned gate, cctv surveillance and emergency call switch in every room</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -473,12 +417,12 @@
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-secure-shield"></i> -->
-                                <img src="img/icons/icon-img/3-Housekeeping.webp" alt="#">
+                                <!-- <i class="flaticon-home-2"></i> -->
+                                <img src="img/icons/icon-img/7-amenities.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">03</span> -->
-                            <span class="category-title">Daily Housekeeping and Laundry </span>
-                            <span class="category-brief">for a maintenance-free resort-like lifestyle</span>
+                            <!-- <span class="category-number">07</span> -->
+                            <span class="category-title">Resort-style Amenities</span>
+                            <span class="category-brief">with phone, TV/cable, wifi internet and 24x7 power backup</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -488,12 +432,12 @@
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-bed-1"></i> -->
-                                <img src="img/icons/icon-img/4-ERT.webp" alt="#">
+                                <!-- <i class="flaticon-slider"></i> -->
+                                <img src="img/icons/icon-img/8-Campus.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">06</span> -->
-                            <span class="category-title">Emergency Response Team</span>
-                            <span class="category-brief">with visiting doctors and trained nurses round the clock</span>
+                            <!-- <span class="category-number">08</span> -->
+                            <span class="category-title">On Campus Facilities</span>
+                            <span class="category-brief"> temple, yoga and meditation room, library, gym, spa, salon and gaming zone</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -519,12 +463,12 @@
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-stethoscope"></i> -->
-                                <img src="img/icons/icon-img/6-Security.webp" alt="#">
+                                <!-- <i class="flaticon-car"></i> -->
+                                <img src="img/icons/icon-img/1-bedroom.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">04</span> -->
-                            <span class="category-title">24x7 Security</span>
-                            <span class="category-brief">with manned gate, cctv surveillance and emergency call switch in every room</span>
+                            <!-- <span class="category-number">01</span> -->
+                            <span class="category-title">Full Furnished AC Rooms</span>
+                            <span class="category-brief">with attached bathroom and balcony, designed in an elder friendly way</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -534,12 +478,12 @@
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-home-2"></i> -->
-                                <img src="img/icons/icon-img/7-amenities.webp" alt="#">
+                                <!-- <i class="flaticon-secure-shield"></i> -->
+                                <img src="img/icons/icon-img/3-Housekeeping.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">07</span> -->
-                            <span class="category-title">Resort-style Amenities</span>
-                            <span class="category-brief">with phone, TV/cable, wifi internet and 24x7 power backup</span>
+                            <!-- <span class="category-number">03</span> -->
+                            <span class="category-title">Daily Housekeeping and Laundry </span>
+                            <span class="category-brief">for a maintenance-free resort-like lifestyle</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
@@ -549,16 +493,17 @@
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
                         <a href="shop.html">
                             <span class="category-icon">
-                                <!-- <i class="flaticon-slider"></i> -->
-                                <img src="img/icons/icon-img/8-Campus.webp" alt="#">
+                                <!-- <i class="flaticon-bed-1"></i> -->
+                                <img src="img/icons/icon-img/4-ERT.webp" alt="#">
                             </span>
-                            <!-- <span class="category-number">08</span> -->
-                            <span class="category-title">On Campus Facilities</span>
-                            <span class="category-brief"> temple, yoga and meditation room, library, gym, spa, salon and gaming zone</span>
+                            <!-- <span class="category-number">06</span> -->
+                            <span class="category-title">Emergency Response Team</span>
+                            <span class="category-brief">with visiting doctors and trained nurses round the clock</span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
                     </div>
                 </div>
+                <!--  -->
             </div>
         </div>
     </div>
