@@ -4293,7 +4293,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   list-style: none;
   margin-top: 15px;
   display: block;
-  font-size: 14px;
+  font-size: 11px;
   font-weight: 700;
 }
 .ltn__menu-widget > ul li a {
@@ -15537,7 +15537,7 @@ input.cart-plus-minus-box {
   margin-top: 0;
 }
 .ltn__upcoming-project-item .ltn__upcoming-project-info {
-  padding: 50px 20px;
+  padding: 27px 20px;
 }
 
 /* -----    For Banner Section ----- */

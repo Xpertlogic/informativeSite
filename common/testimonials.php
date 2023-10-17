@@ -10,15 +10,15 @@
                 </div>
 
             <div class="row ltn__upcoming-project-slider-1-active slick-arrow-1">
-                <!-- upcoming-project-item 1-->
+                <!-- Testimonial Slide-item 1-->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                             <div class="ltn__video-img ltn__animation-pulse1">
-                                <img src="img/others/9.jpg" alt="video popup bg image">
-                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0"  data-rel="lightcase:myCollection">
-                                    <i class="fa fa-play"></i>
+                                <img src="img/others/testimonial-img-1.webp" alt="video popup bg image">
+                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/33cbZURNLwk?si=g5jui_lsWQaDKeSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen data-rel="lightcase">
+                                <i class="fa fa-play"></i>
                                 </a>
                             </div>
                             </div>
@@ -35,16 +35,17 @@
                  </div>
             </div>
 
-                <!-- upcoming-project-item 2-->
+                <!-- Testimonial Slide-item 2-->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                             <div class="ltn__video-img ltn__animation-pulse1">
-                                <img src="img/others/9.jpg" alt="video popup bg image">
-                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0"  data-rel="lightcase:myCollection">
+                                <img src="img/others/testimonial-img-2.webp" alt="video popup bg image">
+                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---"  
+                                href="https://www.youtube.com/embed/TyIyQVsMI7U?si=5xehDZ5W5z0xIJO6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen data-rel="lightcase">
                                     <i class="fa fa-play"></i>
-                                </a>
+                                </a>    
                             </div>
                             </div>
                             <div class="col-lg-5">
