@@ -4291,9 +4291,9 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 .ltn__menu-widget > ul li {
   list-style: none;
-  margin-top: 15px;
+  margin-top: 12px;
   display: block;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
 }
 .ltn__menu-widget > ul li a {
@@ -13740,7 +13740,6 @@ input.cart-plus-minus-box {
   width: 45px;
   line-height: 45px;
   display: flex;
-  align-items: center;
   justify-content: center;
   flex: 0 0 45px;
   border-radius: 100%;

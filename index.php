@@ -343,10 +343,10 @@
                                     <img src="img/product-3/feature-room1.webp" alt="#">
                                 </div>
                             </div>
-                            <div class="col-lg-5 section-bg-1">
+                            <div class="col-lg-5 ">
                                 <div class="ltn__upcoming-project-info ltn__menu-widget">
                                     <h6 class="section-subtitle ltn__secondary-color mb-0">About Rooms</h6>
-                                    <h4 class="mb-30">Luxuriously built, independent living senior citizen facility.</h4>
+                                    <h4 class="mb-20">Luxuriously built, independent living senior citizen facility.</h4>
                                     <ul class="mt">
                                         <li>1. Furnished and fully serviced 500 sq ft AC rooms with attached bathroom, balcony, pantry with option of single or double occupancy</li>
                                         <li>2. Beds, wardrobes, personal lockers, sofa, flat-screen TV, refrigerator, kitchenette, study table</li>
@@ -355,7 +355,7 @@
                                         <li>5. Bathroom with handrails, grab bars etc</li>
                                         <li>6. 24x7 attendant, housekeeping & maintenance</li>
                                     </ul>
-                                    <div class="btn-wrapper animated">
+                                    <div class="btn-wrapper animated ">
                                         <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download Brochure</a>
                                     </div>
                                 </div>
